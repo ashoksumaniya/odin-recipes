@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: hsl(348, 9%, 79%);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #2c2b27;
+    margin: 1rem auto;
+    text-align: center;
+}
+
+.center-adjust {
+    height: auto;
+    width: 474px;
+    margin: 1rem auto;
+    display: block;
+}
+
+ul {
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+li a {
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #7126f4;
+}
+
+a:hover {
+    color: black;
+}
